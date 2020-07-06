@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cloud File Manager Dashboard
+</name>
+</assembly>
+<members>
+<member name="T:Cloud_File_Manager_Dashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.Arrow_Down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.Arrow_Left">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.christmas_star_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.christmas_star_120px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.clip_reading_of_books_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.code_file_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.connect_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.connect_120px_png2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.doc_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.file_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.file_120px_png2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.folder_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.folder_120px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.folder_120px_png12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.notification_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.notification_120px_png2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.pdf_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.photo_1503443207922_dff7d543fd0e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.photo_1543555033_397fbd4e1ec4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.photo_1543555033_397fbd4e1ec41">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.psd_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.Screenshot_27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.search_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.time_machine_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.time_machine_120px_png2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.trash_120px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cloud_File_Manager_Dashboard.My.Resources.Resources.trash_120px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
